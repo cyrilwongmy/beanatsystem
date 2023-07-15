@@ -1,20 +1,20 @@
 ---
 home: true
 icon: home
-title: 项目主页
+title: 主页
 heroImage: /logo.svg
 bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
-heroText: 项目名称
-tagline: 你可以在这里放置或是整个项目的描述。
+heroText: System Coffee Machine
+tagline: 这是一台系统咖啡机，所有豆子最后都会萃取出油脂丰富的浓缩咖啡。
 actions:
-  - text: 使用指南 💡
-    link: ./demo/
+  - text: 开始磨豆 🫘
+    link: ./database/
     type: primary
 
-  - text: 文档
+  - text: Discord 交流
     link: ./guide/
 
 highlights:
