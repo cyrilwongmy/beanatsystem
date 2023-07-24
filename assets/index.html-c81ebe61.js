@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-a2d83f34","path":"/zh/opearting-system/mit-6s081/","title":"Mit 6s081","lang":"en-US","frontmatter":{"title":"Mit 6s081","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null}');export{e as data};

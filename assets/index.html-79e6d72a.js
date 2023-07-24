@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-50fae62e","path":"/zh/opearting-system/","title":"Opearting System","lang":"en-US","frontmatter":{"title":"Opearting System","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null}');export{e as data};
