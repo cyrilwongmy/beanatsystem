@@ -1,5 +1,5 @@
 ---
-title: 2. Project 0
+title: 2. Project 0 Copy-On-Write Trie
 author: Cyril
 ---
 
