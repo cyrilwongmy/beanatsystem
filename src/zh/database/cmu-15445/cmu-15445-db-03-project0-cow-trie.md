@@ -1,5 +1,6 @@
 ---
 title: 2. Project 0
+author: Cyril
 ---
 
 ## Introduction
